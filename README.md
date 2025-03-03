@@ -8,4 +8,5 @@ XOR operation for pixel manipulation is reversible.
 
 This tool encrypts an image "prodigy_image.png" and encrypts it to "prodigy_image_encrypted.png".
 The program was run again to decyrpt "prodigy_image_encrypted.png" to "prodigy_image_decrypted.png"
+The program was run on Visual Studio Code
 It was oberserved that both "prodigy_image_encrypted.png" and "prodigy_image_decrypted.png" are same.
